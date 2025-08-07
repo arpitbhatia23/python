@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 from bson import ObjectId
-MONGODB_URI="mongodb+srv://Aurpit:aurpit23@ecomerce.ja8or03.mongodb.net/"
+MONGODB_URI="your_mongodb_uri_here"  
 
 # not a good idea to inducled id and password in code 
 # 
