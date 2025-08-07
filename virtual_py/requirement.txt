@@ -1,0 +1,11 @@
+certifi==2025.8.3
+charset-normalizer==3.4.2
+distlib==0.4.0
+dnspython==2.7.0
+filelock==3.18.0
+idna==3.10
+platformdirs==4.3.8
+pymongo==4.14.0
+requests==2.32.4
+urllib3==2.5.0
+virtualenv==20.33.1
